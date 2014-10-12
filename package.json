@@ -1,0 +1,36 @@
+{
+  "name": "express-to-slash",
+  "version": "1.0.0",
+  "description": "Redirect to / urls. (Express middleware.)",
+  "main": "index.js",
+  "homepage": "https://github.com/chilts/express-to-slash",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.9.5",
+    "request": "^2.45.0",
+    "tape": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/chilts/express-to-slash/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chilts/express-to-slash.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": {
+    "name": "Andrew Chilton",
+    "email": "andychilton@gmail.com",
+    "url": "http://chilts.org/"
+  },
+  "license": "Apache 2.0",
+  "keywords": [
+    "express",
+    "connect",
+    "middleware",
+    "redirect",
+    "slash"
+  ]
+}
